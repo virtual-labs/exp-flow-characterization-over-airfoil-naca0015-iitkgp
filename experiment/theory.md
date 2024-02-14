@@ -25,27 +25,24 @@ The angle formed between a reference line on a body and the oncoming flow.
 In the present experiment, we characterize the lift produced by the NACA 0015 at different angles of attack, by measuring pressure at different points on the upper and lower surface of the airfoil.
 
 1. By definition of Coefficient of pressure,
+<center>
+<img src="./images/Eq1.png" style="width:15%;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (1)
+</center>
 
+From Bernoulli's Equation,
+<center>
+<img src="./images/Eq2.png" style="width:15%;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (2)
+</center>
 
-    <center>
-    <img src="./images/Eq1.png" style="width:15%;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (1)
-    </center>
-
-    From Bernoulli's Equation,
-    <center>
-    <img src="./images/Eq2.png" style="width:15%;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (2)
-    </center>
-
-    and from Eq. (1) and Eq. (2)
-
-    <center>
-    <img src="./images/Eq3.png" style="width:15%;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (3)
-    </center>
+and from Eq. (1) and Eq. (2)
+<center>
+<img src="./images/Eq3.png" style="width:15%;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (3)
+</center>
 
 2. Section Lift coefficient for airfoil is given by
-    <center>
-    <img src="./images/Eq4.png" style="width:20%;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (4)
-    </center>
+<center>
+<img src="./images/Eq4.png" style="width:20%;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (4)
+</center>
 
 
 here,
