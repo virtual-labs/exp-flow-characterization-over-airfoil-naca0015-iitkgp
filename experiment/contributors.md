@@ -1,19 +1,21 @@
-# Subject Matter Experts
-| SNo. | Name | Email | Department | Institute | Profile |
-| :---: | :--- | :---: | :---: | :---: | :---: |
-| 1 | **Prof. Sandeep Saha** | **ssaha@aero.iitkgp.ac.in** | **Department of Aerospace Engineering**| **Indian Institute of Technology Kharagpur** | ***[Profile](https://www.iitkgp.ac.in/department/AE/faculty/ae-ssaha)*** |
+### Subject Matter Experts
+
+<b>Name of Developer | <b> **Prof. Sandeep Saha**
+:--|:--|
+<b> Institute | <b>  **Indian Institute of Technology Kharagpur**
+<b> Email id|     <b>  **ssaha@aero.iitkgp.ac.in**
+<b> Department |  **Department of Aerospace Engineering**
+<b>Webpage| <b> http://www.iitkgp.ac.in/department/AE/faculty/ae-ssaha
+
+
 
 ## Developer and Integration Engineer
 | SrNo | Name | Designation | Department | Institute |
-| :---: | :--- | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | :---: |
 | 1 | **Aditya Kameswara Rao Nandula** | Senior Project Scientist | Department of Mechanical Engineering | IIT Kharagpur |
 
-## Developer and Contributors
+## Contributors List
 | SrNo | Name | Degree | Department | Institute |
-| :---: | :--- | :---: | :---: | :---: |
-| 1 | **Amit Pawar** | Ph.D. | Department of Aerospace Engineerig | IIT Kharagpur |
-| 2 | **Sanat Ranjan** | Ph.D. | Department of Aerospace Engineerig | IIT Kharagpur |
-| 3 | **Arib Shan** | B.Tech. | Department of Aerospace Engineerig | IIT Kharagpur |
-| 4 | **Anmol Agarwal** | B.Tech. | Department of Aerospace Engineerig | IIT Kharagpur |
-| 5 | **Mohd Gufran Ansar** | B.Tech. | Department of Aerospace Engineerig | IIT Kharagpur |
-| 6 | **Mayank Baid** | B.Tech. | Department of Aerospace Engineerig | IIT Kharagpur |
+| :---: | :---: | :---: | :---: | :---: |
+| 1 | **Amit Ashok Pawar** | Ph.D.|Department of Aerospace Engineering | IIT Kharagpur |
+| 2 | **Kumar Sanat Ranjan** | Ph.D.|Department of Aerospace Engineering | IIT Kharagpur |
