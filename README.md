@@ -7,7 +7,8 @@
 
 ### About the Experiment 
 
-To study the principle and dependent parameters of advanced welding processes like laser welding and friction stir welding.
+1. To measure the Coefficient of pressure distribution and
+2. To find the Coefficient of lift of the airfoil NACA 0015.
 
 # Subject Matter Experts
 | SNo. | Name | Email | Department | Institute | Profile |
