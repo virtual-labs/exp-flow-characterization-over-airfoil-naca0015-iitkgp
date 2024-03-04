@@ -1,39 +1,61 @@
 {
-  "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "The airfoil data can also be called as",
+        "answers": {
+          "a": "Finite wing data",
+          "b": "Wing data",
+          "c": "Flight data",
+          "d": "Infinite wing"
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      {
+        "question": "The amount of lift generated over symmetric airfoil at α = 0<sup>○</sup> is",
+        "answers": {
+          "a": "Infinity",
+          "b": "Positive lift",
+          "c": "Negative lift",
+          "d": "No lift"
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+      {
+        "question": "For a symmetric airfoil, the slope of CL in the range of 0<sup>○</sup><α<7.50<sup>○</sup> is",
+        "answers": {
+          "a": "Positive",
+          "b": "Negative",
+          "c": "Zero",
+          "d": "None of the above"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      {
+        "question": "The highest value of C<sub>L</sub> is at?",
+        "answers": {
+          "a": "Maximum lift",
+          "b": "Stalling angle",
+          "c": "None of the above",
+          "d": "Both a and b"
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
-}
+      {
+        "question": "For a symmetric airfoil, the α value for C<sub>Lmin</sub> is",
+        "answers": {
+          "a": "α = 7.5<sup>○</sup>",
+          "b": "α = 5<sup>○</sup>",
+          "c": "α = -5<sup>○</sup>",
+          "d": "α = 0<sup>○</sup>"
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+  
