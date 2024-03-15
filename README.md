@@ -3,7 +3,7 @@
 <b>Discipline | <b> Aerospace Engineerig
 :--|:--|
 <b> Lab | <b> Aerodyamics Lab
-<b> Experiment|     <b> Flow Characterization over Eppler340 airfoil and Experiment 3
+<b> Experiment|     <b> Flow characterization over airfoil NACA 0015 and Experiment 3
 
 ### About the Experiment 
 
