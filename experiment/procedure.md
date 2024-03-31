@@ -1,7 +1,7 @@
 # Procedure
 
 
-1. Fix the airfoil in the wind tunnel with leading edge facing the flow and ensure α = 0<sup>o</sup>>.
+1. Fix the airfoil in the wind tunnel with leading edge facing the flow and ensure α = 0<sup>o</sup>.
 
 2. Connect the reference port of the DSA3217 to the pressure port at the inlet of test section.
 
