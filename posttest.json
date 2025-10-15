@@ -1,0 +1,61 @@
+{
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "The airfoil data can also be called as",
+        "answers": {
+          "a": "Finite wing data",
+          "b": "Wing data",
+          "c": "Flight data",
+          "d": "Infinite wing"
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "The amount of lift generated over symmetric airfoil at α = 0<sup>○</sup> is",
+        "answers": {
+          "a": "Infinity",
+          "b": "Positive lift",
+          "c": "Negative lift",
+          "d": "No lift"
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "For a symmetric airfoil, the slope of CL in the range of 0<sup>○</sup><α<7.50<sup>○</sup> is",
+        "answers": {
+          "a": "Positive",
+          "b": "Negative",
+          "c": "Zero",
+          "d": "None of the above"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "The highest value of C<sub>L</sub> is at?",
+        "answers": {
+          "a": "Maximum lift",
+          "b": "Stalling angle",
+          "c": "None of the above",
+          "d": "Both a and b"
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "For a symmetric airfoil, the α value for zero C<sub>Lmin</sub> is",
+        "answers": {
+          "a": "α = 7.5<sup>○</sup>",
+          "b": "α = 5<sup>○</sup>",
+          "c": "α = -5<sup>○</sup>",
+          "d": "α = 0<sup>○</sup>"
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+  

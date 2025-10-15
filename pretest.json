@@ -1,0 +1,61 @@
+{
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "The cross-sectional shape of wing is called",
+        "answers": {
+          "a": "Airfoil",
+          "b": "Circle",
+          "c": "Camber",
+          "d": "Chord"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "Lift force is?",
+        "answers": {
+          "a": "normal to freestream",
+          "b": "parallel to freestream",
+          "c": "normal to body axis",
+          "d": "parallel to body axis"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "Drag force is?",
+        "answers": {
+          "a": "normal to freestream",
+          "b": "parallel to freestream",
+          "c": "normal to body axis",
+          "d": "parallel to body axis"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "Coefficient of lift is a?",
+        "answers": {
+          "a": "Dimensional quantity",
+          "b": "Dimensionless quantity",
+          "c": "Negligible value",
+          "d": "None of the above"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "Angle of attack is angle between",
+        "answers": {
+          "a": "leading edge and trailing edge",
+          "b": "upper surface and freestream",
+          "c": "freestream and chord length",
+          "d": "lower surface and freestream"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+  
