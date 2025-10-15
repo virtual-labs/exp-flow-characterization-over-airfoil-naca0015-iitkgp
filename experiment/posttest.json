@@ -46,7 +46,7 @@
         "difficulty": "beginner"
       },
       {
-        "question": "For a symmetric airfoil, the α value for C<sub>Lmin</sub> is",
+        "question": "For a symmetric airfoil, the α value for zero C<sub>Lmin</sub> is",
         "answers": {
           "a": "α = 7.5<sup>○</sup>",
           "b": "α = 5<sup>○</sup>",
